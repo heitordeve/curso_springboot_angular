@@ -22,5 +22,5 @@ public class Servico {
 
     @Column
     private BigInteger valor;
-    
+
 }
