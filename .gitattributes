@@ -1,4 +1,4 @@
-*.java linguist-detectable=true
-*.ts linguist-detectable=true
-*.js linguist-detectable=true
+*.java linguist-language=Java
+*.ts linguist-language=Typescript
+*.js linguist-language=Javascript
 *.md linguist-documentation
