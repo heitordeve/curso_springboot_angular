@@ -1,4 +1,6 @@
 *.java linguist-language=Java
-*.ts linguist-language=Typescript
-*.js linguist-language=Javascript
-*.md linguist-documentation
+*.ts linguist-language=TypeScript
+
+/frontend/src/assets/* linguist-vendored
+**/*.min.js linguist-generated
+**/*.css linguist-generated
